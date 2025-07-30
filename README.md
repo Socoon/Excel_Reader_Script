@@ -7,6 +7,7 @@ Features:
 - Supports dynamic row handling (no hardcoded limits)
 
 Use Case:
+
 ✅ Perfect for testing multiple login credentials or input values in automation frameworks.
 
 
